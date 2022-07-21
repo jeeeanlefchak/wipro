@@ -1,0 +1,15 @@
+E:\Winpro\winpro.services\winpro.business_\bin\Debug\net6.0\winpro.business.deps.json
+E:\Winpro\winpro.services\winpro.business_\bin\Debug\net6.0\winpro.business.dll
+E:\Winpro\winpro.services\winpro.business_\bin\Debug\net6.0\winpro.business.pdb
+E:\Winpro\winpro.services\winpro.business_\bin\Debug\net6.0\winpro.model.dll
+E:\Winpro\winpro.services\winpro.business_\bin\Debug\net6.0\winpro.model.pdb
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.csproj.AssemblyReference.cache
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.AssemblyInfoInputs.cache
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.AssemblyInfo.cs
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.csproj.CoreCompileInputs.cache
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.csproj.CopyComplete
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.dll
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\refint\winpro.business.dll
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\winpro.business.pdb
+E:\Winpro\winpro.services\winpro.business_\obj\Debug\net6.0\ref\winpro.business.dll

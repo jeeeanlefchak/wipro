@@ -1,0 +1,8 @@
+E:\Winpro\winpro.services\winpro.model\bin\Debug\winpro.model.dll
+E:\Winpro\winpro.services\winpro.model\bin\Debug\winpro.model.pdb
+E:\Winpro\winpro.services\winpro.model\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Winpro\winpro.services\winpro.model\obj\Debug\winpro.model.csproj.AssemblyReference.cache
+E:\Winpro\winpro.services\winpro.model\obj\Debug\winpro.model.csproj.CoreCompileInputs.cache
+E:\Winpro\winpro.services\winpro.model\obj\Debug\winpro.model.csproj.CopyComplete
+E:\Winpro\winpro.services\winpro.model\obj\Debug\winpro.model.dll
+E:\Winpro\winpro.services\winpro.model\obj\Debug\winpro.model.pdb

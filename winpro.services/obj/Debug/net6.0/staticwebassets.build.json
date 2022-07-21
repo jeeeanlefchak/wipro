@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FUCSHgYijJ04flCNkevpANQU458ECkcHAjZF2JqQppY=",
+  "Source": "winpro.services",
+  "BasePath": "_content/winpro.services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

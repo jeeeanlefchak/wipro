@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Winpro\\winpro.services\\winpro.business_\\winpro.business.csproj": {}
+  },
+  "projects": {
+    "E:\\Winpro\\winpro.services\\winpro.business_\\winpro.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Winpro\\winpro.services\\winpro.business_\\winpro.business.csproj",
+        "projectName": "winpro.business",
+        "projectPath": "E:\\Winpro\\winpro.services\\winpro.business_\\winpro.business.csproj",
+        "packagesPath": "C:\\Users\\jean_\\.nuget\\packages\\",
+        "outputPath": "E:\\Winpro\\winpro.services\\winpro.business_\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jean_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Winpro\\winpro.services\\winpro.model\\winpro.model.csproj": {
+                "projectPath": "E:\\Winpro\\winpro.services\\winpro.model\\winpro.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Winpro\\winpro.services\\winpro.model\\winpro.model.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Winpro\\winpro.services\\winpro.model\\winpro.model.csproj",
+        "projectName": "winpro.model",
+        "projectPath": "E:\\Winpro\\winpro.services\\winpro.model\\winpro.model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
