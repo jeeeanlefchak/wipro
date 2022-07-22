@@ -12,9 +12,11 @@ namespace winpro.services.Controllers
     public class ChallengeController : ControllerBase
     {
         private readonly ICoin _coinRepository;
-        public ChallengeController(ICoin coinRepository)
+        private readonly IServiceScopeFactory _scopeFactory;
+        public ChallengeController(ICoin coinRepository, IServiceScopeFactory scopeFactory)
         {
             this._coinRepository = coinRepository;
+            _scopeFactory = scopeFactory;   
         }
 
         [HttpPost("AddItemFila")]
@@ -30,7 +32,7 @@ namespace winpro.services.Controllers
         [HttpGet("GetItemFila")]
         public async Task<IActionResult> GetItemFila()
         {
-            return Ok(await _coinRepository.GetItemFila());
+            return Ok( _coinRepository.GetItemFila(this._scopeFactory));
         }
 
     }

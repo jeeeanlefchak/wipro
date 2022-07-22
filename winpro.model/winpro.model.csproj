@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arguments\Cotacao.cs" />
+    <Compile Include="Arguments\CotacaoDePara.cs" />
+    <Compile Include="Arguments\Moeda.cs" />
     <Compile Include="Entity\Coin.cs" />
     <Compile Include="Entity\EntityBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
