@@ -27,7 +27,7 @@ namespace winpro.services.BackGroundService
                 Console.WriteLine("TESTE");
                 this.GetItemFila();
 
-                await Task.Delay(10000, stoppingToken);//3.600.000 milisegundos equivalem a 1 hora.. 60 000 = 1 min
+                await Task.Delay(120000, stoppingToken);//3.600.000 milisegundos equivalem a 1 hora.. 60 000 = 1 min
             }
 
         }
